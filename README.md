@@ -1,5 +1,7 @@
 # All-basic-Computer-Science-knowledge-you-will-need-to-work-in-big-4(amazon, facebook, google, microsoft) or any other company hiring Computer science engineers
 
+Thanks to [John](https://github.com/jwasham/) for this.
+
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 This list was extracted and expanded from Google's coaching notes, so these are the things you need to know.
@@ -1931,5 +1933,3 @@ Sit back and enjoy. "Netflix and skill" :P
 
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
-
-**Special credits to John for this**
