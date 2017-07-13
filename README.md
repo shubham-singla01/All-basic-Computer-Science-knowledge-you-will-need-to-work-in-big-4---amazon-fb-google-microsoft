@@ -1,8 +1,9 @@
 # All-basic-Computer-Science-knowledge-you-will-need-to-work-in-big-4(amazon, facebook, google, microsoft) or any other company hiring Computer science engineers
 
-Thanks to [John](https://github.com/jwasham/) for this.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+
+Thanks to [John](https://github.com/jwasham/) for this list.
 
 This list was extracted and expanded from Google's coaching notes, so these are the things you need to know.
 There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
